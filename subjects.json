@@ -1,0 +1,33 @@
+[
+  {
+    "name": "Chinese",
+    "file": "chinese.html",
+    "persona": "Kāng Ào Lán",
+    "tagline": "Pinyin, tones & culture",
+    "cta": "Enter the Academy",
+    "emblem": "🪷",
+    "art": "art-chinese.webp",
+    "icon": "🐼",
+    "color": "#3B1F6E",
+    "accent": "#2BB39F",
+    "ribbon": "#F7C6E0",
+    "testDate": "2026-10-27",
+    "note": "Unit test Oct 27–29",
+    "progress": "pandaState"
+  },
+  {
+    "name": "Social Studies",
+    "file": "social-studies.html",
+    "persona": "Privateer Lulu",
+    "tagline": "Explore history. Discover secrets.",
+    "cta": "Set Sail",
+    "emblem": "🧭",
+    "art": "art-social-studies.webp",
+    "icon": "🧭",
+    "color": "#163A7A",
+    "accent": "#7C4DDB",
+    "ribbon": "#BFEFFA",
+    "testDate": "2026-10-30",
+    "note": "Q1 test Oct 30"
+  }
+]
